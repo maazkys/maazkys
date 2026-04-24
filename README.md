@@ -4,7 +4,7 @@
 
 <div align="center">
 
-```
+<pre>
  ███▄ ▄███▓ ▄▄▄      ▄▄▄      ▒███████▒    ███▄ ▄███▓ ▄▄▄       ██▓     ██▓ ██ ▄█▀
 ▓██▒▀█▀ ██▒▒████▄   ▒████▄    ▒ ▒ ▒ ▄▀░   ▓██▒▀█▀ ██▒▒████▄    ▓██▒    ▓██▒ ██▄█▒ 
 ▓██    ▓██░▒██  ▀█▄ ▒██  ▀█▄  ░ ▒ ▄▀▒░    ▓██    ▓██░▒██  ▀█▄  ▒██░    ▒██▒▓███▄░ 
@@ -15,11 +15,11 @@
 ░      ░     ░   ▒    ░   ▒   ░ ░ ░ ░ ░   ░      ░     ░   ▒     ░ ░    ▒ ░░ ░░ ░ 
        ░         ░  ░     ░  ░  ░ ░              ░         ░  ░    ░  ░ ░  ░  ░   
                               ░                                                
-```
+</pre>
 
-*“have the courage to follow your heart and intuition.”*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=have+the+courage+to+follow+your+heart+and+intuition.;stay+hungry%2C+stay+foolish.;the+people+who+are+crazy+enough+to+change+the+world+do.;you+have+to+keep+going+forward." alt="rotating quotes" />
 
-<br>
+<br><br>
 
 ![cybersec](https://img.shields.io/badge/-CYBER%20SECURITY-000000?style=for-the-badge&labelColor=000000)
 ![cloud](https://img.shields.io/badge/-CLOUD%20SECURITY-000000?style=for-the-badge&labelColor=000000)
@@ -40,7 +40,11 @@
 
 <div align="center">
 
-```
+<table>
+<tr>
+<td valign="top">
+
+<pre>
  ██▓███   ██▓    ▄▄▄     ▓██   ██▓▓█████  ██▀███  
 ▓██░  ██▒▓██▒   ▒████▄    ▒██  ██▒▓█   ▀ ▓██ ▒ ██▒
 ▓██░ ██▓▒▒██░   ▒██  ▀█▄   ▒██ ██░▒███   ▓██ ░▄█ ▒
@@ -51,17 +55,18 @@
 ░░         ░ ░    ░   ▒   ▒ ▒ ░░     ░     ░░   ░ 
              ░  ░     ░  ░░ ░        ░  ░   ░     
                           ░ ░                     
-```
 
-```
 NAME    MAAZ MALIK
 CLASS   SECURITY / FULL STACK
 RANK    ELITE
 SERVER  AWS / AZURE
 STATUS  ▓▓▓▓▓▓▓▓▓▓ ON
-```
+</pre>
 
-```
+</td>
+<td valign="top">
+
+<pre>
  ███▄ ▄███▓ ██▓  ██████   ██████  ██▓ ▒█████   ███▄    █   ██████ 
 ▓██▒▀█▀ ██▒▓██▒▒██    ▒ ▒██    ▒ ▓██▒▒██▒  ██▒ ██ ▀█   █ ▒██    ▒ 
 ▓██    ▓██░▒██▒░ ▓██▄   ░ ▓██▄   ▒██▒▒██░  ██▒▓██  ▀█ ██▒░ ▓██▄   
@@ -71,15 +76,17 @@ STATUS  ▓▓▓▓▓▓▓▓▓▓ ON
 ░  ░      ░ ▒ ░░ ░▒  ░ ░░ ░▒  ░ ░ ▒ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░░ ░▒  ░ ░
 ░      ░    ▒ ░░  ░  ░  ░  ░  ░   ▒ ░░ ░ ░ ▒     ░   ░ ░ ░  ░  ░  
        ░    ░        ░        ░   ░      ░ ░           ░       ░  
-```
 
-```
 ▸ Cloud Architecture
 ▸ Threat Hunting
-▸ Full Stack Web Development
+▸ Full Stack Web Dev
 ▸ Pen Testing
 ▸ Security Writeups
-```
+</pre>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -87,7 +94,7 @@ STATUS  ▓▓▓▓▓▓▓▓▓▓ ON
 
 <div align="center">
 
-```
+<pre>
   ██████ ▄▄▄█████▓ ▄▄▄      ▄▄▄█████▓  ██████ 
 ▒██    ▒ ▓  ██▒ ▓▒▒████▄    ▓  ██▒ ▓▒▒██    ▒ 
 ░ ▓██▄   ▒ ▓██░ ▒░▒██  ▀█▄  ▒ ▓██░ ▒░░ ▓██▄   
@@ -97,7 +104,7 @@ STATUS  ▓▓▓▓▓▓▓▓▓▓ ON
 ░ ░▒  ░ ░    ░      ▒   ▒▒ ░    ░    ░ ░▒  ░ ░
 ░  ░  ░    ░        ░   ▒     ░      ░  ░  ░  
       ░                 ░  ░               ░  
-```
+</pre>
 
 <a href="https://github.com/maazkys">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
@@ -112,7 +119,7 @@ STATUS  ▓▓▓▓▓▓▓▓▓▓ ON
 
 <div align="center">
 
-```
+<pre>
   ▄▄▄       ██▀███    ██████ ▓█████  ███▄    █  ▄▄▄       ██▓    
  ▒████▄    ▓██ ▒ ██▒▒██    ▒ ▓█   ▀  ██ ▀█   █ ▒████▄    ▓██▒    
  ▒██  ▀█▄  ▓██ ░▄█ ▒░ ▓██▄   ▒███   ▓██  ▀█ ██▒▒██  ▀█▄  ▒██░    
@@ -122,7 +129,7 @@ STATUS  ▓▓▓▓▓▓▓▓▓▓ ON
    ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒  ░ ░ ░ ░  ░░ ░░   ░ ▒░  ▒   ▒▒ ░░ ░ ▒  ░
    ░   ▒     ░░   ░ ░  ░  ░     ░      ░   ░ ░   ░   ▒     ░ ░   
        ░  ░   ░           ░     ░  ░         ░       ░  ░    ░  ░
-```
+</pre>
 
 ![AWS](https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
 ![Azure](https://img.shields.io/badge/AZURE-000000.svg?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=000000)
@@ -152,11 +159,9 @@ STATUS  ▓▓▓▓▓▓▓▓▓▓ ON
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/maazkys/maazkys/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/maazkys/maazkys/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
 <br>
-
-*“you have to keep going. and you have to keep going forward.”*
 
 `MAAZ MALIK`  ·  `2025`
 

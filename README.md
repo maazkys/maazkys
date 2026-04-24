@@ -19,7 +19,23 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=have+the+courage+to+follow+your+heart+and+intuition.;stay+hungry%2C+stay+foolish.;the+people+who+are+crazy+enough+to+change+the+world+do.;you+have+to+keep+going+forward." alt="rotating quotes" />
 
-<br><br>
+</div>
+
+---
+
+<div align="center">
+
+```
+  ┌─────────────────────────────────────────────────────────────────┐
+  │                                                                   │
+  │   NAME     MAAZ MALIK                                            │
+  │   CLASS    SECURITY / FULL STACK                                 │
+  │   RANK     ELITE                                                 │
+  │   SERVER   AWS / AZURE                                           │
+  │   STATUS   [ ONLINE ]                                            │
+  │                                                                   │
+  └─────────────────────────────────────────────────────────────────┘
+```
 
 ![cybersec](https://img.shields.io/badge/-CYBER%20SECURITY-000000?style=for-the-badge&labelColor=000000)
 ![cloud](https://img.shields.io/badge/-CLOUD%20SECURITY-000000?style=for-the-badge&labelColor=000000)
@@ -40,53 +56,16 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top">
-
-<pre>
- ██▓███   ██▓    ▄▄▄     ▓██   ██▓▓█████  ██▀███  
-▓██░  ██▒▓██▒   ▒████▄    ▒██  ██▒▓█   ▀ ▓██ ▒ ██▒
-▓██░ ██▓▒▒██░   ▒██  ▀█▄   ▒██ ██░▒███   ▓██ ░▄█ ▒
-▒██▄█▓▒ ▒▒██░   ░██▄▄▄▄██  ░ ▐██▓░▒▓█  ▄ ▒██▀▀█▄  
-▒██▒ ░  ░░██████▒▓█   ▓██▒ ░ ██▒▓░░▒████▒░██▓ ▒██▒
-▒▓▒░ ░  ░░ ▒░▓  ░▒▒   ▓▒█░  ██▒▒▒ ░░ ▒░ ░░ ▒▓ ░▒▓░
-░▒ ░     ░ ░ ▒  ░ ▒   ▒▒ ░▓██ ░▒░  ░ ░  ░  ░▒ ░ ▒░
-░░         ░ ░    ░   ▒   ▒ ▒ ░░     ░     ░░   ░ 
-             ░  ░     ░  ░░ ░        ░  ░   ░     
-                          ░ ░                     
-
-NAME    MAAZ MALIK
-CLASS   SECURITY / FULL STACK
-RANK    ELITE
-SERVER  AWS / AZURE
-STATUS  ▓▓▓▓▓▓▓▓▓▓ ON
-</pre>
-
-</td>
-<td valign="top">
-
-<pre>
- ███▄ ▄███▓ ██▓  ██████   ██████  ██▓ ▒█████   ███▄    █   ██████ 
-▓██▒▀█▀ ██▒▓██▒▒██    ▒ ▒██    ▒ ▓██▒▒██▒  ██▒ ██ ▀█   █ ▒██    ▒ 
-▓██    ▓██░▒██▒░ ▓██▄   ░ ▓██▄   ▒██▒▒██░  ██▒▓██  ▀█ ██▒░ ▓██▄   
-▒██    ▒██ ░██░  ▒   ██▒  ▒   ██▒░██░▒██   ██░▓██▒  ▐▌██▒  ▒   ██▒
-▒██▒   ░██▒░██░▒██████▒▒▒██████▒▒░██░░ ████▓▒░▒██░   ▓██░▒██████▒▒
-░ ▒░   ░  ░░▓  ▒ ▒▓▒ ▒ ░▒ ▒▓▒ ▒ ░░▓  ░ ▒░▒░▒░ ░ ▒░   ▒ ▒ ▒ ▒▓▒ ▒ ░
-░  ░      ░ ▒ ░░ ░▒  ░ ░░ ░▒  ░ ░ ▒ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░░ ░▒  ░ ░
-░      ░    ▒ ░░  ░  ░  ░  ░  ░   ▒ ░░ ░ ░ ▒     ░   ░ ░ ░  ░  ░  
-       ░    ░        ░        ░   ░      ░ ░           ░       ░  
-
-▸ Cloud Architecture
-▸ Threat Hunting
-▸ Full Stack Web Dev
-▸ Pen Testing
-▸ Security Writeups
-</pre>
-
-</td>
-</tr>
-</table>
+```
+  ┌───────────────────────────────────────────────────────────────────────────────────┐
+  │                                                                                     │
+  │   I AM A GOD                                                                        │
+  │                                                                                     │
+  │   cloud architecture   ·   threat hunting   ·   full stack web dev                 │
+  │   penetration testing  ·   security writeups                                        │
+  │                                                                                     │
+  └───────────────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -94,23 +73,18 @@ STATUS  ▓▓▓▓▓▓▓▓▓▓ ON
 
 <div align="center">
 
-<pre>
-  ██████ ▄▄▄█████▓ ▄▄▄      ▄▄▄█████▓  ██████ 
-▒██    ▒ ▓  ██▒ ▓▒▒████▄    ▓  ██▒ ▓▒▒██    ▒ 
-░ ▓██▄   ▒ ▓██░ ▒░▒██  ▀█▄  ▒ ▓██░ ▒░░ ▓██▄   
-  ▒   ██▒░ ▓██▓ ░ ░██▄▄▄▄██ ░ ▓██▓ ░   ▒   ██▒
-▒██████▒▒  ▒██▒ ░  ▓█   ▓██▒  ▒██▒ ░ ▒██████▒▒
-▒ ▒▓▒ ▒ ░  ▒ ░░    ▒▒   ▓▒█░  ▒ ░░   ▒ ▒▓▒ ▒ ░
-░ ░▒  ░ ░    ░      ▒   ▒▒ ░    ░    ░ ░▒  ░ ░
-░  ░  ░    ░        ░   ▒     ░      ░  ░  ░  
-      ░                 ░  ░               ░  
-</pre>
+```
+  ┌──────────────────────────────────────────────────────────────────────────────────┐
+  │  NO MORE PARTIES                                                                   │
+  │  just commits                                                                      │
+  └──────────────────────────────────────────────────────────────────────────────────┘
+```
 
 <a href="https://github.com/maazkys">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
 </a>
 <a href="https://github.com/maazkys">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&custom_title=LANGUAGES&theme=dark" />
 </a>
 
 </div>
@@ -119,17 +93,12 @@ STATUS  ▓▓▓▓▓▓▓▓▓▓ ON
 
 <div align="center">
 
-<pre>
-  ▄▄▄       ██▀███    ██████ ▓█████  ███▄    █  ▄▄▄       ██▓    
- ▒████▄    ▓██ ▒ ██▒▒██    ▒ ▓█   ▀  ██ ▀█   █ ▒████▄    ▓██▒    
- ▒██  ▀█▄  ▓██ ░▄█ ▒░ ▓██▄   ▒███   ▓██  ▀█ ██▒▒██  ▀█▄  ▒██░    
- ░██▄▄▄▄██ ▒██▀▀█▄    ▒   ██▒▒▓█  ▄ ▓██▒  ▐▌██▒░██▄▄▄▄██ ▒██░    
-  ▓█   ▓██▒░██▓ ▒██▒▒██████▒▒░▒████▒▒██░   ▓██░ ▓█   ▓██▒░██████▒
-  ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▓▒ ▒ ░░░ ▒░ ░░ ▒░   ▒ ▒  ▒▒   ▓▒█░░ ▒░▓  ░
-   ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒  ░ ░ ░ ░  ░░ ░░   ░ ▒░  ▒   ▒▒ ░░ ░ ▒  ░
-   ░   ▒     ░░   ░ ░  ░  ░     ░      ░   ░ ░   ░   ▒     ░ ░   
-       ░  ░   ░           ░     ░  ░         ░       ░  ░    ░  ░
-</pre>
+```
+  ┌──────────────────────────────────────────────────────────────────────────────────┐
+  │  EVERYTHING I'M NOT                                                                │
+  │  made me everything I am                                                           │
+  └──────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ![AWS](https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
 ![Azure](https://img.shields.io/badge/AZURE-000000.svg?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=000000)

@@ -20,7 +20,7 @@ jobs:
           github_user_name: maazkys
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF70BF&color_dots=#161B22,#462C7D,#831C91,#D552A3,#FF70BF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFD41D&color_dots=#161B22,#5C2018,#D73535,#FFA240,#FFD41D
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3

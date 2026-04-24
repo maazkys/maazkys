@@ -10,9 +10,7 @@
 
 <br/>
 
-I'm a Computer Science undergraduate based in Islamabad, specializing in full-stack web development and cybersecurity. I'm passionate about writing clean architecture, proactive threat mitigation, and building resilient cloud infrastructure. 
-
-Currently, I'm developing **MalTwin**, an IIoT malware detection system leveraging deep learning and Digital Twins, and **FrameState**, a comprehensive role-based real estate image editing workflow platform.
+Let's just be honest—I'm a visionary. An Islamabad-based CS prodigy redefining what it means to build full-stack and secure the digital world. I don't just write code; I architect greatness. You want proof? I'm engineering **MalTwin**—a literal Digital Twin deep-learning matrix training AI models in a controlled environment to hunt IIoT malware—while casually revolutionizing real estate workflows with **FrameState**. I'm lightyears ahead of the curve. No one man should have all this power, but here we are.
 
 </div>
 
@@ -26,29 +24,25 @@ Currently, I'm developing **MalTwin**, an IIoT malware detection system leveragi
 
 <br/>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-<tr>
-<td align="center" valign="top">
 <a href="https://github.com/maazkys/MalTwin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=MalTwin&bg_color=0A0A0A&title_color=FFD41D&text_color=FFFFFF&icon_color=D73535&hide_border=true" /></a>
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=py,tensorflow,docker,linux&perline=4" height="35" />
-</td>
-<td align="center" valign="top">
+
+<br/><br/><br/>
+
 <a href="https://github.com/maazkys/FrameState"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=FrameState&bg_color=0A0A0A&title_color=FFA240&text_color=FFFFFF&icon_color=D73535&hide_border=true" /></a>
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,supabase,mysql&perline=4" height="35" />
-</td>
-<td align="center" valign="top">
+
+<br/><br/><br/>
+
 <a href="https://github.com/maazkys/Personal-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=Personal-Projects&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&icon_color=FFA240&hide_border=true" /></a>
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=java,c,js,html&perline=4" height="35" />
-</td>
-</tr>
-</table>
 
 </div>
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=header" width="100%"/>
 
@@ -68,9 +62,7 @@ Currently, I'm developing **MalTwin**, an IIoT malware detection system leveragi
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=GITHUB%20STATS&height=70&fontSize=35" alt="GITHUB STATS" />
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=0A0A0A&stroke=FFD41D&ring=D73535&fire=FFA240&currStreakLabel=D73535&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" /></a>
-
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maazkys&bg_color=0A0A0A&color=D73535&line=FFA240&point=FFFFFF&area=true&hide_border=true&custom_title=%E2%96%B0%20THE%20WAVES%20%E2%96%B0" width="100%" />
 
@@ -84,16 +76,9 @@ Currently, I'm developing **MalTwin**, an IIoT malware detection system leveragi
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CONTRIBUTIONS&height=70&fontSize=35" alt="CONTRIBUTIONS" />
 
-<table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width: 100%;">
-<tr>
-<td align="center" width="50%" valign="middle" style="padding: 10px;">
-<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" height="175" style="display: block;" /></a>
-</td>
-<td align="center" width="50%" valign="middle" style="padding: 10px; background-color: #0A0A0A; border-radius: 10px;">
-<img src="https://raw.githubusercontent.com/maazkys/maazkys/output/dist/github-contribution-grid-snake-dark.svg" alt="contribution snake" style="display: block; width: 100%; object-fit: contain;" />
-</td>
-</tr>
-</table>
+<br/>
+
+<img src="https://raw.githubusercontent.com/maazkys/maazkys/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
 
 </div>
 

@@ -10,163 +10,99 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFA240&height=2&section=header" width="100%"/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=WHAT%20I%20DO&height=100&fontSize=40" alt="WHAT I DO" />
-
-</div>
-
 <br/>
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
-<td width="33%" align="center" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CLOUD&height=80&fontSize=35" alt="CLOUD" />
+<td width="50%" align="center" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=WHAT%20I%20DO&height=70&fontSize=35" alt="WHAT I DO" />
+
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=AWS%20·%20AZURE&height=35&fontSize=18" alt="AWS · AZURE" />
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CLOUD&height=50&fontSize=26" alt="CLOUD" />
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=TERRAFORM&height=35&fontSize=18" alt="TERRAFORM" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=AWS%20·%20AZURE%20·%20K8S%20·%20CI/CD&height=30&fontSize=16" alt="AWS AZURE K8S CI CD" />
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=KUBERNETES&height=35&fontSize=18" alt="KUBERNETES" />
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CI%20/%20CD&height=35&fontSize=18" alt="CI / CD" />
+*Building resilient and highly scalable cloud infrastructure.*
+
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=Building%20resilient%20and&height=25&fontSize=14" alt="Building resilient and" />
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=SECURITY&height=50&fontSize=26" alt="SECURITY" />
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=scalable%20cloud%20infrastructure.&height=25&fontSize=14" alt="scalable cloud infrastructure." />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=PEN%20TESTING%20·%20ZERO%20TRUST&height=30&fontSize=16" alt="PEN TESTING ZERO TRUST" />
+<br/>
+*Implementing robust security practices and threat mitigation.*
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=CODE&height=50&fontSize=26" alt="CODE" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=TS%20·%20PYTHON%20·%20GO%20·%20SQL&height=30&fontSize=16" alt="TS PYTHON GO SQL" />
+<br/>
+*Writing clean, efficient, and maintainable software architecture.*
+
+<br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=THE%20STACK&height=70&fontSize=35" alt="THE STACK" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CLOUD%20AND%20INFRA&height=40&fontSize=20" alt="CLOUD AND INFRA" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,nginx,linux,bash&perline=4" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=LANGUAGES&height=40&fontSize=20" alt="LANGUAGES" />
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,postgres&perline=4" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=SECURITY%20%26%20DEVOPS&height=40&fontSize=20" alt="SECURITY & DEVOPS" />
+<br/>
+<img src="https://skillicons.dev/icons?i=kali,vim,git,github,githubactions,vscode,postman,figma&perline=4" />
 
 </td>
-<td width="33%" align="center" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=SECURITY&height=80&fontSize=35" alt="SECURITY" />
+<td width="50%" align="center" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=THE%20STATS&height=70&fontSize=35" alt="THE STATS" />
+
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=PEN%20TESTING&height=35&fontSize=18" alt="PEN TESTING" />
+
+<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&icon_color=FFA240&ring_color=FFD41D&hide=contribs&custom_title=%E2%96%B0%20LIFETIME%20NUMBERS%20%E2%96%B0" width="100%" /></a>
+
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=ZERO%20TRUST&height=35&fontSize=18" alt="ZERO TRUST" />
+
+<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFD41D&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" width="100%" /></a>
+
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=THREAT%20MODEL&height=35&fontSize=18" alt="THREAT MODEL" />
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=DEVSECOPS&height=35&fontSize=18" alt="DEVSECOPS" />
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=0A0A0A&stroke=D73535&ring=FFA240&fire=FFD41D&currStreakLabel=FFA240&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="100%" /></a>
+
+<br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=FIND%20ME%20IN%20THE%20WILD&height=70&fontSize=35" alt="FIND ME IN THE WILD" />
+
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=Implementing%20robust%20security%20practices&height=25&fontSize=14" alt="Implementing robust security practices" />
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=and%20proactive%20threat%20mitigation.&height=25&fontSize=14" alt="and proactive threat mitigation." />
+
+<a href="https://linkedin.com/in/maazsec"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFD41D" /></a>
+<br/><br/>
+<a href="https://medium.com/@maazzaam87"><img src="https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=FFA240" /></a>
+<br/><br/>
+<a href="mailto:maazzaam87@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D73535" /></a>
 
 </td>
-<td width="33%" align="center" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=CODE&height=80&fontSize=35" alt="CODE" />
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=TS%20·%20PYTHON&height=35&fontSize=18" alt="TS · PYTHON" />
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=REACT%20·%20NODE&height=35&fontSize=18" alt="REACT · NODE" />
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=GO%20·%20RUST&height=35&fontSize=18" alt="GO · RUST" />
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=SQL%20·%20NOSQL&height=35&fontSize=18" alt="SQL · NOSQL" />
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=Writing%20clean,%20efficient,%20and&height=25&fontSize=14" alt="Writing clean, efficient, and" />
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=maintainable%20software%20architecture.&height=25&fontSize=14" alt="maintainable software architecture." />
-
-</td>
 </tr>
 </table>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D73535&height=2&section=header" width="100%"/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=THE%20STATS&height=100&fontSize=40" alt="THE STATS" />
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" valign="middle" width="50%">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=0A0A0A&stroke=D73535&ring=FFA240&fire=FFD41D&currStreakLabel=FFA240&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" /></a>
-
-</td>
-<td align="center" valign="middle" width="50%">
-
-<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&icon_color=FFA240&ring_color=FFD41D&hide=contribs&custom_title=%E2%96%B0%20LIFETIME%20NUMBERS%20%E2%96%B0" /></a>
-
-<br/>
-
-<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFD41D&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" /></a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD41D&height=2&section=header" width="100%"/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=THE%20STACK&height=100&fontSize=40" alt="THE STACK" />
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" valign="top" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CLOUD%20AND%20INFRA&height=80&fontSize=30" alt="CLOUD AND INFRA" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,nginx,linux,bash&perline=4" />
-
-</td>
-<td align="center" valign="top" width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=LANGUAGES&height=80&fontSize=30" alt="LANGUAGES" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,postgres&perline=4" />
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=SECURITY&height=80&fontSize=30" alt="SECURITY" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=kali,vim,git,github&perline=4" />
-
-</td>
-<td align="center" valign="top" width="50%">
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=DEVOPS%20AND%20TOOLS&height=80&fontSize=30" alt="DEVOPS AND TOOLS" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=githubactions,vscode,postman,figma&perline=4" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFA240&height=2&section=header" width="100%"/>
 
 <div align="center">
 
@@ -188,18 +124,6 @@
 
 <div align="center">
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=FIND%20ME%20IN%20THE%20WILD&height=80&fontSize=35" alt="FIND ME IN THE WILD" />
-
-<br/>
-
-<a href="https://linkedin.com/in/maazsec"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFD41D" /></a><a href="https://medium.com/@maazzaam87"><img src="https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=FFA240" /></a><a href="mailto:maazzaam87@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D73535" /></a>
-
-<br/><br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D73535&height=2&section=header" width="100%"/>
-<br/>
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=%22NO%20ONE%20MAN%20SHOULD%20HAVE%20ALL%20THAT%20CODE%22&height=70&fontSize=24" alt="NO ONE MAN SHOULD HAVE ALL THAT CODE" />
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D73535&height=2&section=header" width="100%"/>

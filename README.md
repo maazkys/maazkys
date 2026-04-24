@@ -1,93 +1,125 @@
-<!--  maazkys/maazkys  -->
-
 <div align="center">
-
-```
-███╗   ███╗ █████╗  █████╗ ███████╗    ███╗   ███╗ █████╗ ██╗     ██╗██╗  ██╗
-████╗ ████║██╔══██╗██╔══██╗╚════██║    ████╗ ████║██╔══██╗██║     ██║██║ ██╔╝
-██╔████╔██║███████║███████║    ██╔╝    ██╔████╔██║███████║██║     ██║█████╔╝
-██║╚██╔╝██║██╔══██║██╔══██║   ██╔╝     ██║╚██╔╝██║██╔══██║██║     ██║██╔═██╗
-██║ ╚═╝ ██║██║  ██║██║  ██║   ██║      ██║ ╚═╝ ██║██║  ██║███████╗██║██║  ██╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
-```
-
-![](https://img.shields.io/badge/CYBER%20SECURITY-ff79c6?style=flat-square&labelColor=0d1117&color=ff79c6&logoColor=white)
-![](https://img.shields.io/badge/CLOUD%20SECURITY-bd93f9?style=flat-square&labelColor=0d1117&color=bd93f9)
-![](https://img.shields.io/badge/AWS-f1fa8c?style=flat-square&labelColor=0d1117&color=f1fa8c)
-![](https://img.shields.io/badge/AZURE-8be9fd?style=flat-square&labelColor=0d1117&color=8be9fd)
-![](https://img.shields.io/badge/MALWARE%20ANALYSIS-ff5555?style=flat-square&labelColor=0d1117&color=ff5555)
-
-</div>
-
----
-
-<table>
-<tr>
-<td valign="top" width="30%">
-
-```
-PLAYER  ONE
------------
-```
-
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/130928892?v=4" width="110" />
+<img src="https://avatars.githubusercontent.com/u/130928892?v=4" width="180" />
 </div>
 
 <br>
 
 ```
-NAME    : MAAZ MALIK
-HANDLE  : @maazkys
-CLASS   : SECURITY
-SERVER  : AWS / AZURE
-STATUS  : [ ONLINE ]
+• ▌ ▄ ·.  ▄▄▄·  ▄▄▄· ·▄▄▄▄•    • ▌ ▄ ·.  ▄▄▄· ▄▄▌  ▪  ▄ •▄ 
+·██ ▐███▪▐█ ▀█ ▐█ ▀█ ▪▀·.█▌    ·██ ▐███▪▐█ ▀█ ██•  ██ █▌▄▌▪
+▐█ ▌▐▌▐█·▄█▀▀█ ▄█▀▀█ ▄█▀▀▀•    ▐█ ▌▐▌▐█·▄█▀▀█ ██▪  ▐█·▐▀▀▄·
+██ ██▌▐█▌▐█ ▪▐▌▐█ ▪▐▌█▌▪▄█▀    ██ ██▌▐█▌▐█ ▪▐▌▐█▌▐▌▐█▌▐█.█▌
+▀▀  █▪▀▀▀ ▀  ▀  ▀  ▀ ·▀▀▀ •    ▀▀  █▪▀▀▀ ▀  ▀ .▀▀▀ ▀▀▀·▀  ▀
 ```
 
-```
->> MISSIONS
-  - Cloud Hardening
-  - Malware Analysis
-  - Pen Testing
-  - Security Writeups
-```
+<br>
+
+<div align="center">
+
+`CYBER SECURITY` &nbsp;&nbsp; `CLOUD SECURITY` &nbsp;&nbsp; `MALWARE ANALYSIS`
+
+`AWS` &nbsp;&nbsp; `AZURE` &nbsp;&nbsp; `PEN TESTING`
+
+</div>
+
+<br>
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="38%">
+
+<br>
+
 ```
->> SOCIAL
+PLAYER
+──────────────────────
+NAME    MAAZ MALIK
+CLASS   SECURITY
+RANK    ELITE
+SERVER  AWS / AZURE
+STATUS  ONLINE
+──────────────────────
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maazkys)
+```
+MISSIONS
+──────────────────────
+  Cloud Architecture
+  Threat Hunting
+  Malware Analysis
+  Pen Testing
+  Security Writeups
+──────────────────────
+```
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maazkys)
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maazkys)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maazkys)
+[![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maazkys)
+[![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maazkys)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkys@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkys@gmail.com)
+<br>
 
 </td>
-<td valign="top" width="70%">
+<td valign="top" width="62%">
 
-```
->> STATS  SCREEN  //  SEASON  2025
-```
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&border_radius=0&rank_icon=github&card_width=480" width="100%" />
+[![stats](https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&card_width=520&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/maazkys)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&theme=synthwave&hide_border=true&border_radius=0&langs_count=8&card_width=480" width="100%" />
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&theme=synthwave&hide_border=true&langs_count=8&card_width=520&bg_color=00000000&title_color=ffffff&text_color=aaaaaa)](https://github.com/maazkys)
 
----
-
-```
->> EQUIPPED  LOADOUT
-```
-
-<img src="https://skillicons.dev/icons?i=aws,azure,py,bash,linux,react,supabase,js,html,docker,git&perline=11" />
+<br>
 
 </td>
 </tr>
 </table>
+
+---
+
+<br>
+
+<div align="center">
+
+```
+ARSENAL
+```
+
+</div>
+
+<div align="center">
+
+**CLOUD & INFRA**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/AZURE-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/VERCEL-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**SECURITY TOOLS**
+
+![Kali Linux](https://img.shields.io/badge/KALI_LINUX-%23557C94.svg?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/NMAP-4B275F?style=flat-square&logo=nmap&logoColor=white)
+
+**CODE**
+
+![Python](https://img.shields.io/badge/PYTHON-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+<br>
 
 ---
 
@@ -99,8 +131,6 @@ STATUS  : [ ONLINE ]
 
 <div align="right">
 
-```
-(C) 2025  MAAZ MALIK  INDUSTRIES  //  1UP
-```
+`MAAZ MALIK` &nbsp; `2025`
 
 </div>

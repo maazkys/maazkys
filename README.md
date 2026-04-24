@@ -35,25 +35,13 @@
 <div align="center">
 
 <pre>
- ██╗    ██╗ ██╗  ██╗  █████╗  ████████╗   ██╗      ██████╗   ██████╗        ██╗    ███████╗ ████████╗  █████╗  ████████╗ ███████╗
- ██║    ██║ ██║  ██║ ██╔══██╗ ╚══██╔══╝   ██║      ██╔══██╗ ██╔═══██╗      ██╔╝    ██╔════╝ ╚══██╔══╝ ██╔══██╗ ╚══██╔══╝ ██╔════╝
- ██║ █╗ ██║ ███████║ ███████║    ██║      ██║      ██║  ██║ ██║   ██║     ██╔╝     ███████╗    ██║    ███████║    ██║    ███████╗
- ██║███╗██║ ██╔══██║ ██╔══██║    ██║      ██║      ██║  ██║ ██║   ██║    ██╔╝      ╚════██║    ██║    ██╔══██║    ██║    ╚════██║
- ╚███╔███╔╝ ██║  ██║ ██║  ██║    ██║      ██║      ██████╔╝ ╚██████╔╝   ██╔╝       ███████║    ██║    ██║  ██║    ██║    ███████║
-  ╚══╝╚══╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝    ╚═╝      ╚═╝      ╚═════╝   ╚═════╝    ╚═╝        ╚══════╝    ╚═╝    ╚═╝  ╚═╝    ╚═╝    ╚══════╝
+ ██╗    ██╗ ██╗  ██╗  █████╗  ████████╗   ██╗      ██████╗   ██████╗   ██████╗   ██████╗ 
+ ██║    ██║ ██║  ██║ ██╔══██╗ ╚══██╔══╝   ██║      ██╔══██╗ ██╔═══██╗ ██╔═══██╗ ██╔═══██╗
+ ██║ █╗ ██║ ███████║ ███████║    ██║      ██║      ██║  ██║ ██║   ██║ ██║   ██║ ██║   ██║
+ ██║███╗██║ ██╔══██║ ██╔══██║    ██║      ██║      ██║  ██║ ██║   ██║ ██║   ██║ ██║   ██║
+ ╚███╔███╔╝ ██║  ██║ ██║  ██║    ██║      ██║      ██████╔╝ ╚██████╔╝ ╚██████╔╝ ╚██████╔╝
+  ╚══╝╚══╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝    ╚═╝      ╚═╝      ╚═════╝   ╚═════╝   ╚═════╝   ╚═════╝ 
 </pre>
-
-</div>
-
-&nbsp;
-
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="50%">
-
-<div align="center">
-
-**` WHAT  I  DO `**
 
 <br/>
 
@@ -91,28 +79,34 @@ Supabase
 </tr>
 </table>
 
-</td>
-<td valign="top" width="50%">
+&nbsp;
 
-<div align="center">
-
-**` STATS `**
-
-<br/>
-
-<img height="158" src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&hide_title=true" alt="stats" />
-
-</div>
-
-</td>
-</tr>
-</table>
+---
 
 &nbsp;
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maazkys&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="streak" />
+<pre>
+ ███████╗ ████████╗  █████╗  ████████╗ ███████╗
+ ██╔════╝ ╚══██╔══╝ ██╔══██╗ ╚══██╔══╝ ██╔════╝
+ ███████╗    ██║    ███████║    ██║    ███████╗
+ ╚════██║    ██║    ██╔══██║    ██║    ╚════██║
+ ███████║    ██║    ██║  ██║    ██║    ███████║
+ ╚══════╝    ╚═╝    ╚═╝  ╚═╝    ╚═╝    ╚══════╝
+</pre>
+
+<br/>
+
+<a href="https://github.com/maazkys">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&hide_title=true&hide_rank=false&card_width=450" alt="stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&type=svg" alt="streak" />
+</a>
 
 </div>
 
@@ -137,31 +131,37 @@ Supabase
 
 `CLOUD`
 
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0A0A0A)
-![Azure](https://img.shields.io/badge/AZURE-0A0A0A?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0A0A0A)
-![Docker](https://img.shields.io/badge/DOCKER-0A0A0A?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A)
-![Vercel](https://img.shields.io/badge/VERCEL-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A)
-![Linux](https://img.shields.io/badge/LINUX-0A0A0A?style=for-the-badge&logo=linux&logoColor=white&labelColor=0A0A0A)
+<p>
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A" height="38" alt="AWS" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0A0A0A" height="38" alt="Azure" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A" height="38" alt="Docker" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A" height="38" alt="Vercel" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=linux&logoColor=white&labelColor=0A0A0A" height="38" alt="Linux" />
+</p>
 
 `SECURITY`
 
-![Kali](https://img.shields.io/badge/KALI-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0A0A0A)
-![Metasploit](https://img.shields.io/badge/METASPLOIT-0A0A0A?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0A0A0A)
-![Burp Suite](https://img.shields.io/badge/BURP-0A0A0A?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0A0A0A)
-![Wireshark](https://img.shields.io/badge/WIRESHARK-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0A0A0A)
-![Nmap](https://img.shields.io/badge/NMAP-0A0A0A?style=for-the-badge&logoColor=white&labelColor=0A0A0A)
+<p>
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0A0A0A" height="38" alt="Kali" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0A0A0A" height="38" alt="Metasploit" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0A0A0A" height="38" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0A0A0A" height="38" alt="Wireshark" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0A0A0A" height="38" alt="HTB" />
+</p>
 
 `CODE`
 
-![Python](https://img.shields.io/badge/PYTHON-0A0A0A?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0A)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0A0A0A?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0A0A0A)
-![React](https://img.shields.io/badge/REACT-0A0A0A?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A)
-![Next.js](https://img.shields.io/badge/NEXT.JS-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0A0A)
-![Node](https://img.shields.io/badge/NODE-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0A0A0A)
-![Tailwind](https://img.shields.io/badge/TAILWIND-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0A0A0A)
-![Supabase](https://img.shields.io/badge/SUPABASE-0A0A0A?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0A0A0A)
-![Bash](https://img.shields.io/badge/BASH-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0A0A0A)
-![Git](https://img.shields.io/badge/GIT-0A0A0A?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A)
+<p>
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0A" height="38" alt="Python" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0A0A0A" height="38" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A" height="38" alt="React" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0A0A" height="38" alt="Next.js" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0A0A0A" height="38" alt="Node" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0A0A0A" height="38" alt="Tailwind" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0A0A0A" height="38" alt="Supabase" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0A0A0A" height="38" alt="Bash" />
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A" height="38" alt="Git" />
+</p>
 
 </div>
 
@@ -198,7 +198,7 @@ Supabase
 
 <pre>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-              MAAZ  MALIK   ·   MMXXV
+              MAAZ  MALIK   ·   MMXXV             
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </pre>
 

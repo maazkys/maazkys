@@ -83,15 +83,36 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=THE%20STATS&height=100&fontSize=40" alt="THE STATS" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=STATS%20%26%20CONTRIBUTIONS&height=100&fontSize=40" alt="STATS & CONTRIBUTIONS" />
 
 <br/>
 
-<a href="https://github.com/maazkys"><img height="175" src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&icon_color=FFA240&ring_color=FFD41D&hide=contribs&custom_title=%E2%96%B0%20LIFETIME%20NUMBERS%20%E2%96%B0" /></a><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=0A0A0A&stroke=D73535&ring=FFA240&fire=FFD41D&currStreakLabel=FFA240&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="175" /></a>
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
 
-<br/><br/>
+<img src="https://raw.githubusercontent.com/maazkys/maazkys/output/dist/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
 
-<a href="https://github.com/maazkys"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFD41D&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" /></a>
+<br/><br/><br/>
+
+<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&hide_border=true&bg_color=0A0A0A&title_color=FFD41D&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" /></a>
+
+</td>
+<td align="center" valign="top" width="50%">
+
+<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&icon_color=FFA240&ring_color=FFD41D&hide=contribs&custom_title=%E2%96%B0%20LIFETIME%20NUMBERS%20%E2%96%B0" /></a>
+
+<br/><br/><br/>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=0A0A0A&stroke=D73535&ring=FFA240&fire=FFD41D&currStreakLabel=FFA240&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" /></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazkys&bg_color=0A0A0A&color=D73535&line=FFA240&point=FFFFFF&area=true&hide_border=true&custom_title=%E2%96%B0%20THE%20WAVES%20%E2%96%B0" width="100%" />
 
 </div>
 
@@ -157,24 +178,6 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFA240&height=2&section=header" width="100%"/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CONTRIBUTIONS&height=100&fontSize=40" alt="CONTRIBUTIONS" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/maazkys/maazkys/output/dist/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazkys&bg_color=0A0A0A&color=D73535&line=FFA240&point=FFFFFF&area=true&hide_border=true&custom_title=%E2%96%B0%20THE%20WAVES%20%E2%96%B0" width="100%" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D73535&height=2&section=header" width="100%"/>
 
 <div align="center">
 

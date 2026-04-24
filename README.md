@@ -15,17 +15,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3500&pause=800&color=FF4D4D&center=true&vCenter=true&width=700&lines=%22I+just+wanna+build+things+that+matter.%22;%E2%96%B0+CLOUD+%E2%80%A2+SECURITY+%E2%80%A2+CODE+%E2%96%B0;%22NAME+ONE+GENIUS+THAT+AIN%27T+CRAZY.%22" alt="typing" />
 
-<br/>
-
-![](https://img.shields.io/badge/-%E2%96%B0%20LISTEN%20TO%20THE%20KIDS%20BRO%20%E2%96%B0-FF4D4D?style=for-the-badge&labelColor=0A0A0A)
-
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         DIVIDER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D4D&height=2&section=header" width="100%"/>
 
@@ -59,15 +51,17 @@
 <tr>
 <td width="33%" align="center" valign="top">
 
-### ☁️ CLOUD
+### CLOUD
 
 ```
-┌──────────────────┐
-│  AWS · AZURE     │
-│  TERRAFORM       │
-│  KUBERNETES      │
-│  CI / CD         │
-└──────────────────┘
+┌────────────────────────┐
+│                        │
+│   AWS  ·  AZURE        │
+│   TERRAFORM            │
+│   KUBERNETES            │
+│   CI  /  CD            │
+│                        │
+└────────────────────────┘
 ```
 
 *Building infrastructure that scales like a Yeezus tour.*
@@ -75,15 +69,17 @@
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🔒 SECURITY
+### SECURITY
 
 ```
-┌──────────────────┐
-│  PEN TESTING     │
-│  ZERO TRUST      │
-│  THREAT MODEL    │
-│  DEVSECOPS       │
-└──────────────────┘
+┌────────────────────────┐
+│                        │
+│   PEN  TESTING         │
+│   ZERO  TRUST          │
+│   THREAT  MODEL        │
+│   DEVSECOPS            │
+│                        │
+└────────────────────────┘
 ```
 
 *No backdoors. No leaks. Only flame.*
@@ -91,15 +87,17 @@
 </td>
 <td width="33%" align="center" valign="top">
 
-### 💻 CODE
+### CODE
 
 ```
-┌──────────────────┐
-│  TS · PYTHON     │
-│  REACT · NODE    │
-│  GO · RUST       │
-│  SQL · NOSQL     │
-└──────────────────┘
+┌────────────────────────┐
+│                        │
+│   TS  ·  PYTHON        │
+│   REACT  ·  NODE       │
+│   GO  ·  RUST          │
+│   SQL  ·  NOSQL        │
+│                        │
+└────────────────────────┘
 ```
 
 *Shipping software that runs cleaner than Graduation.*
@@ -151,13 +149,6 @@
   <img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=0A0A0A&stroke=FF4D4D&ring=FFD700&fire=FF4D4D&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="175" />
 </a>
 
-<br/><br/>
-
-<!-- Trophy row -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=maazkys&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-</a>
-
 </div>
 
 <br/>
@@ -184,35 +175,52 @@
 
 <br/>
 
+<table align="center">
+<tr>
+<td align="center" valign="top" width="50%">
+
 **▰ CLOUD & INFRA ▰**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,nginx,linux" />
-</p>
-
 <br/>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,nginx,linux,bash&perline=4" />
+
+</td>
+<td align="center" valign="top" width="50%">
 
 **▰ LANGUAGES ▰**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,cpp,bash,sql" />
-</p>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,postgres&perline=4" />
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
 
 <br/>
 
-**▰ FRAMEWORKS & TOOLS ▰**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,postgres,mongodb,redis" />
-</p>
+**▰ SECURITY ▰**
 
 <br/>
 
-**▰ SECURITY & DEVOPS ▰**
+<img src="https://skillicons.dev/icons?i=kali,vim,git,github&perline=4" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,vim,git,github,githubactions,vscode,postman,figma" />
-</p>
+</td>
+<td align="center" valign="top" width="50%">
+
+<br/>
+
+**▰ DEVOPS & TOOLS ▰**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=githubactions,vscode,postman,figma&perline=4" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -240,12 +248,12 @@
 
 <br/>
 
-<!-- Snake eating contributions -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
+<!-- Snake eating contributions — generated from your own repo's action -->
+<img src="https://raw.githubusercontent.com/maazkys/maazkys/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
 <br/><br/>
 
-<!-- Activity graph -->
+<!-- Activity graph based on your real GitHub activity -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maazkys&bg_color=0A0A0A&color=FF4D4D&line=FFD700&point=FFFFFF&area=true&hide_border=true&custom_title=%E2%96%B0%20THE%20WAVES%20%E2%96%B0" width="100%" />
 
 </div>
@@ -266,14 +274,14 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/maazkys">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/maazsec">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:maaz@example.com">
-  <img src="https://img.shields.io/badge/EMAIL-FF4D4D?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://medium.com/@maazzaam87">
+  <img src="https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://github.com/maazkys">
-  <img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:maazzaam87@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>

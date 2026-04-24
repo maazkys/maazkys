@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+```text
 ███╗   ███╗  █████╗   █████╗  ███████╗
 ████╗ ████║ ██╔══██╗ ██╔══██╗ ╚══███╔╝
 ██╔████╔██║ ███████║ ███████║   ███╔╝ 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-```
+```text
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
 ║   ██     ██  ██   ██   █████   ████████     ██             ║
@@ -45,7 +45,7 @@
 
 ### CLOUD
 
-```
+```text
 ┌────────────────────────┐
 │                        │
 │   AWS  ·  AZURE        │
@@ -63,7 +63,7 @@
 
 ### SECURITY
 
-```
+```text
 ┌────────────────────────┐
 │                        │
 │   PEN  TESTING         │
@@ -81,7 +81,7 @@
 
 ### CODE
 
-```
+```text
 ┌────────────────────────┐
 │                        │
 │   TS  ·  PYTHON        │
@@ -104,7 +104,7 @@
 
 <div align="center">
 
-```
+```text
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
 ║   ████████   ██   ██   ███████                             ║
@@ -124,12 +124,7 @@
 
 <br/>
 
-<a href="https://github.com/maazkys">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=FF70BF&text_color=FFFFFF&icon_color=D552A3&ring_color=831C91&hide=contribs&custom_title=%E2%96%B0%20LIFETIME%20NUMBERS%20%E2%96%B0" />
-</a>
-<a href="https://github.com/maazkys">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D552A3&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" />
-</a>
+<a href="https://github.com/maazkys"><img height="175" src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=FF70BF&text_color=FFFFFF&icon_color=D552A3&ring_color=831C91&hide=contribs&custom_title=%E2%96%B0%20LIFETIME%20NUMBERS%20%E2%96%B0" /></a><a href="https://github.com/maazkys"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D552A3&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" /></a>
 
 <br/><br/>
 
@@ -145,7 +140,7 @@
 
 <div align="center">
 
-```
+```text
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
 ║   ███████   ████████   █████    ███████  ██   ██           ║
@@ -214,7 +209,7 @@
 
 <div align="center">
 
-```
+```text
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
 ║    █████    ████████  ████████  ██  ██    ██  ██  ████████ ║
@@ -228,7 +223,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/maazkys/maazkys/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/maazkys/maazkys/output/dist/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
 <br/><br/>
 
@@ -248,26 +243,18 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/maazsec">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF70BF" />
-</a>
-<a href="https://medium.com/@maazzaam87">
-  <img src="https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=D552A3" />
-</a>
-<a href="mailto:maazzaam87@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=831C91" />
-</a>
+<a href="https://linkedin.com/in/maazsec"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF70BF" /></a><a href="https://medium.com/@maazzaam87"><img src="https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=D552A3" /></a><a href="mailto:maazzaam87@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=831C91" /></a>
 
 <br/><br/>
 
-<table align="center" border="0"><tr><td align="center">
+<table align="center" width="100%" border="0"><tr><td align="center">
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  "NO ONE MAN SHOULD HAVE ALL THAT CODE"
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-        M A A Z   ·   M M X X V
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                 "NO ONE MAN SHOULD HAVE ALL THAT CODE"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                           M A A Z   ·   M M X X V
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </td></tr></table>

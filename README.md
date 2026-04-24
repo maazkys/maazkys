@@ -23,55 +23,52 @@
 <td width="33%" align="center" valign="top">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CLOUD&height=80&fontSize=35" alt="CLOUD" />
-
-```text
-┌────────────────────────┐
-│                        │
-│   AWS  ·  AZURE        │
-│   TERRAFORM            │
-│   KUBERNETES           │
-│   CI  /  CD            │
-│                        │
-└────────────────────────┘
-```
-
-*Building resilient and highly scalable cloud infrastructure.*
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=AWS%20·%20AZURE&height=35&fontSize=18" alt="AWS · AZURE" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=TERRAFORM&height=35&fontSize=18" alt="TERRAFORM" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=KUBERNETES&height=35&fontSize=18" alt="KUBERNETES" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CI%20/%20CD&height=35&fontSize=18" alt="CI / CD" />
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=Building%20resilient%20and&height=25&fontSize=14" alt="Building resilient and" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=scalable%20cloud%20infrastructure.&height=25&fontSize=14" alt="scalable cloud infrastructure." />
 
 </td>
 <td width="33%" align="center" valign="top">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=SECURITY&height=80&fontSize=35" alt="SECURITY" />
-
-```text
-┌────────────────────────┐
-│                        │
-│   PEN  TESTING         │
-│   ZERO  TRUST          │
-│   THREAT  MODEL        │
-│   DEVSECOPS            │
-│                        │
-└────────────────────────┘
-```
-
-*Implementing robust security practices and proactive threat mitigation.*
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=PEN%20TESTING&height=35&fontSize=18" alt="PEN TESTING" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=ZERO%20TRUST&height=35&fontSize=18" alt="ZERO TRUST" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=THREAT%20MODEL&height=35&fontSize=18" alt="THREAT MODEL" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=DEVSECOPS&height=35&fontSize=18" alt="DEVSECOPS" />
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=Implementing%20robust%20security%20practices&height=25&fontSize=14" alt="Implementing robust security practices" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=and%20proactive%20threat%20mitigation.&height=25&fontSize=14" alt="and proactive threat mitigation." />
 
 </td>
 <td width="33%" align="center" valign="top">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=CODE&height=80&fontSize=35" alt="CODE" />
-
-```text
-┌────────────────────────┐
-│                        │
-│   TS  ·  PYTHON        │
-│   REACT  ·  NODE       │
-│   GO  ·  RUST          │
-│   SQL  ·  NOSQL        │
-│                        │
-└────────────────────────┘
-```
-
-*Writing clean, efficient, and maintainable software architecture.*
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=TS%20·%20PYTHON&height=35&fontSize=18" alt="TS · PYTHON" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=REACT%20·%20NODE&height=35&fontSize=18" alt="REACT · NODE" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=GO%20·%20RUST&height=35&fontSize=18" alt="GO · RUST" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=SQL%20·%20NOSQL&height=35&fontSize=18" alt="SQL · NOSQL" />
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=Writing%20clean,%20efficient,%20and&height=25&fontSize=14" alt="Writing clean, efficient, and" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=maintainable%20software%20architecture.&height=25&fontSize=14" alt="maintainable software architecture." />
 
 </td>
 </tr>

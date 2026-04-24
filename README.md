@@ -4,93 +4,65 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3500&pause=800&color=D73535&center=true&vCenter=true&width=700&lines=%22I+just+wanna+build+things+that+matter.%22;%E2%96%B0+CLOUD+%E2%80%A2+SECURITY+%E2%80%A2+CODE+%E2%96%B0;%22NAME+ONE+GENIUS+THAT+AIN%27T+CRAZY.%22" alt="typing" />
 
-<br/><br/>
-
-<table align="center" width="100%" style="border-collapse: collapse;">
-<tr>
-
-<td width="50%" align="center" valign="top">
+<br/><br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=WHAT%20I%20DO&height=70&fontSize=35" alt="WHAT I DO" />
 
-<br/>
-
+<table align="center" width="100%" style="border-collapse: collapse;">
+<tr>
+<td width="33%" align="center" valign="top">
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CLOUD&height=40&fontSize=24" alt="CLOUD" />
 <br/>
 <b>AWS · AZURE · K8S · CI/CD</b>
 <br/>
 <i>Building resilient and highly scalable cloud infrastructure.</i>
-
-<br/><br/>
-
+</td>
+<td width="33%" align="center" valign="top">
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=SECURITY&height=40&fontSize=24" alt="SECURITY" />
 <br/>
 <b>PEN TESTING · ZERO TRUST</b>
 <br/>
 <i>Implementing robust security practices and threat mitigation.</i>
-
-<br/><br/>
-
+</td>
+<td width="33%" align="center" valign="top">
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=CODE&height=40&fontSize=24" alt="CODE" />
 <br/>
 <b>TS · PYTHON · GO · SQL</b>
 <br/>
 <i>Writing clean, efficient, and maintainable software architecture.</i>
+</td>
+</tr>
+</table>
+
+<br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=THE%20STATS&height=70&fontSize=35" alt="THE STATS" />
+
+<table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr>
+<td colspan="2" align="center" style="padding: 0;">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=0A0A0A&stroke=FFD41D&ring=D73535&fire=FFA240&currStreakLabel=D73535&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" style="display: block;" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 0;">
+<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0A0A0A&title_color=FFA240&text_color=FFFFFF&icon_color=FFD41D&ring_color=D73535&hide=contribs&custom_title=%E2%96%B0%20LIFETIME%20NUMBERS%20%E2%96%B0" height="165" style="display: block;" /></a>
+</td>
+<td align="center" style="padding: 0;">
+<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" height="165" style="display: block;" /></a>
+</td>
+</tr>
+</table>
 
 <br/><br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=THE%20STACK&height=70&fontSize=35" alt="THE STACK" />
-
 <br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,nginx,linux,bash,ts,js,py,react,nextjs,nodejs,tailwind,postgres,kali,vim,git,github,githubactions,vscode,postman,figma&perline=8" />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=CLOUD%20%26%20INFRA&height=40&fontSize=20" alt="CLOUD AND INFRA" />
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,nginx,linux,bash&perline=4" />
+<br/><br/><br/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=LANGUAGES&height=40&fontSize=20" alt="LANGUAGES" />
-<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,postgres&perline=4" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=SECURITY&height=40&fontSize=20" alt="SECURITY" />
-<br/>
-<img src="https://skillicons.dev/icons?i=kali,vim,git,github&perline=4" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=DEVOPS&height=40&fontSize=20" alt="DEVOPS" />
-<br/>
-<img src="https://skillicons.dev/icons?i=githubactions,vscode,postman,figma&perline=4" />
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=THE%20STATS&height=70&fontSize=35" alt="THE STATS" />
-
-<br/><br/>
-
-<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0A0A0A&title_color=FFA240&text_color=FFFFFF&icon_color=FFD41D&ring_color=D73535&hide=contribs&custom_title=%E2%96%B0%20LIFETIME%20NUMBERS%20%E2%96%B0" width="100%" /></a>
-
-<br/><br/>
-
-<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" width="100%" /></a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=0A0A0A&stroke=FFD41D&ring=D73535&fire=FFA240&currStreakLabel=D73535&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="100%" /></a>
-
-</td>
-
-</tr>
-</table>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CONTRIBUTIONS&height=70&fontSize=35" alt="CONTRIBUTIONS" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=CONTRIBUTIONS&height=70&fontSize=35" alt="CONTRIBUTIONS" />
 
 <br/>
 
@@ -102,10 +74,10 @@
 
 <br/><br/><br/>
 
-<a href="https://linkedin.com/in/maazsec"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFD41D" /></a><a href="https://medium.com/@maazzaam87"><img src="https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=FFA240" /></a><a href="mailto:maazzaam87@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D73535" /></a>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=%22NO%20ONE%20MAN%20SHOULD%20HAVE%20ALL%20THAT%20CODE%22&height=60&fontSize=22" alt="NO ONE MAN SHOULD HAVE ALL THAT CODE" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=%22NO%20ONE%20MAN%20SHOULD%20HAVE%20ALL%20THAT%20CODE%22&height=60&fontSize=22" alt="NO ONE MAN SHOULD HAVE ALL THAT CODE" />
+<a href="https://linkedin.com/in/maazsec"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFD41D" /></a><a href="https://medium.com/@maazzaam87"><img src="https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=FFA240" /></a><a href="mailto:maazzaam87@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D73535" /></a>
 
 </div>

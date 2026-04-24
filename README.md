@@ -1,13 +1,6 @@
 <div align="center">
 
-```text
-███╗   ███╗  █████╗   █████╗  ███████╗
-████╗ ████║ ██╔══██╗ ██╔══██╗ ╚══███╔╝
-██╔████╔██║ ███████║ ███████║   ███╔╝ 
-██║╚██╔╝██║ ██╔══██║ ██╔══██║  ███╔╝  
-██║ ╚═╝ ██║ ██║  ██║ ██║  ██║ ███████╗
-╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF70BF&text=M%20A%20A%20Z&height=150&fontSize=80" alt="MAAZ" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3500&pause=800&color=FF70BF&center=true&vCenter=true&width=700&lines=%22I+just+wanna+build+things+that+matter.%22;%E2%96%B0+CLOUD+%E2%80%A2+SECURITY+%E2%80%A2+CODE+%E2%96%B0;%22NAME+ONE+GENIUS+THAT+AIN%27T+CRAZY.%22" alt="typing" />
 
@@ -19,31 +12,17 @@
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   ██     ██  ██   ██   █████   ████████     ██             ║
-║   ██     ██  ██   ██  ██   ██     ██        ██             ║
-║   ██  █  ██  ███████  ███████     ██        ██             ║
-║   ██ ███ ██  ██   ██  ██   ██     ██                       ║
-║    ███ ███   ██   ██  ██   ██     ██        ██             ║
-║                                                            ║
-║         ██████     █████                                   ║
-║         ██   ██   ██   ██                                  ║
-║         ██   ██   ██   ██                                  ║
-║         ██   ██   ██   ██                                  ║
-║         ██████     █████                                   ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=831C91&text=01%20—%20WHAT%20I%20DO&height=100&fontSize=40" alt="01 WHAT I DO" />
 
 </div>
+
+<br/>
 
 <table align="center" width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1&color=831C91&center=true&vCenter=true&width=200&lines=CLOUD" alt="CLOUD" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=831C91&text=CLOUD&height=50&fontSize=22" alt="CLOUD" />
 
 ```text
 ┌────────────────────────┐
@@ -61,7 +40,7 @@
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1&color=D552A3&center=true&vCenter=true&width=200&lines=SECURITY" alt="SECURITY" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D552A3&text=SECURITY&height=50&fontSize=22" alt="SECURITY" />
 
 ```text
 ┌────────────────────────┐
@@ -79,7 +58,7 @@
 </td>
 <td width="33%" align="center" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1&color=FF70BF&center=true&vCenter=true&width=200&lines=CODE" alt="CODE" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF70BF&text=CODE&height=50&fontSize=22" alt="CODE" />
 
 ```text
 ┌────────────────────────┐
@@ -104,23 +83,7 @@
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   ████████   ██   ██   ███████                             ║
-║      ██      ██   ██   ██                                  ║
-║      ██      ███████   █████                               ║
-║      ██      ██   ██   ██                                  ║
-║      ██      ██   ██   ███████                             ║
-║                                                            ║
-║   ███████   ████████   █████    ████████   ███████         ║
-║   ██           ██     ██   ██      ██      ██              ║
-║   ███████      ██     ███████      ██      ███████         ║
-║        ██      ██     ██   ██      ██           ██         ║
-║   ███████      ██     ██   ██      ██      ███████         ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D552A3&text=02%20—%20THE%20STATS&height=100&fontSize=40" alt="02 THE STATS" />
 
 <br/>
 
@@ -140,17 +103,7 @@
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   ███████   ████████   █████    ███████  ██   ██           ║
-║   ██           ██     ██   ██  ██        ██  ██            ║
-║   ███████      ██     ███████  ██        █████             ║
-║        ██      ██     ██   ██  ██        ██  ██            ║
-║   ███████      ██     ██   ██   ███████  ██   ██           ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF70BF&text=03%20—%20THE%20STACK&height=100&fontSize=40" alt="03 THE STACK" />
 
 <br/>
 
@@ -158,7 +111,7 @@
 <tr>
 <td align="center" valign="top" width="50%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1&color=831C91&center=true&vCenter=true&width=300&lines=▰+CLOUD+%26+INFRA+▰" alt="CLOUD & INFRA" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=831C91&text=CLOUD%20%26%20INFRA&height=50&fontSize=20" alt="CLOUD & INFRA" />
 
 <br/>
 
@@ -167,7 +120,7 @@
 </td>
 <td align="center" valign="top" width="50%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1&color=D552A3&center=true&vCenter=true&width=300&lines=▰+LANGUAGES+▰" alt="LANGUAGES" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D552A3&text=LANGUAGES&height=50&fontSize=20" alt="LANGUAGES" />
 
 <br/>
 
@@ -180,7 +133,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1&color=FF70BF&center=true&vCenter=true&width=300&lines=▰+SECURITY+▰" alt="SECURITY" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF70BF&text=SECURITY&height=50&fontSize=20" alt="SECURITY" />
 
 <br/>
 
@@ -191,7 +144,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1&color=831C91&center=true&vCenter=true&width=300&lines=▰+DEVOPS+%26+TOOLS+▰" alt="DEVOPS & TOOLS" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=831C91&text=DEVOPS%20%26%20TOOLS&height=50&fontSize=20" alt="DEVOPS & TOOLS" />
 
 <br/>
 
@@ -209,17 +162,7 @@
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║    █████    ████████  ████████  ██  ██    ██  ██  ████████ ║
-║   ██   ██      ██        ██     ██  ██    ██  ██     ██    ║
-║   ███████      ██        ██     ██   ██  ██   ██     ██    ║
-║   ██   ██      ██        ██     ██    ████    ██     ██    ║
-║   ██   ██   ████████     ██     ██     ██     ██     ██    ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=831C91&text=04%20—%20CONTRIBUTIONS&height=100&fontSize=40" alt="04 CONTRIBUTIONS" />
 
 <br/>
 
@@ -239,7 +182,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1&color=FF70BF&center=true&vCenter=true&width=400&lines=▰+FIND+ME+IN+THE+WILD+▰" alt="FIND ME IN THE WILD" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF70BF&text=FIND%20ME%20IN%20THE%20WILD&height=60&fontSize=26" alt="FIND ME IN THE WILD" />
 
 <br/>
 
@@ -249,9 +192,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=831C91&height=2&section=header" width="100%"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1&color=FF70BF&center=true&vCenter=true&width=700&lines=%22NO+ONE+MAN+SHOULD+HAVE+ALL+THAT+CODE%22" alt="NO ONE MAN SHOULD HAVE ALL THAT CODE" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF70BF&text=%22NO%20ONE%20MAN%20SHOULD%20HAVE%20ALL%20THAT%20CODE%22&height=70&fontSize=24" alt="NO ONE MAN SHOULD HAVE ALL THAT CODE" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=1&color=D552A3&center=true&vCenter=true&width=700&lines=M+A+A+Z+++·+++M+M+X+X+V" alt="M A A Z" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D552A3&text=M%20A%20A%20Z%20%20·%20%20M%20M%20X%20X%20V&height=50&fontSize=16" alt="MAAZ" />
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=831C91&height=2&section=header" width="100%"/>
 

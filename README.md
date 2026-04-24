@@ -43,7 +43,7 @@
 <tr>
 <td width="33%" align="center" valign="top">
 
-### CLOUD
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1&color=831C91&center=true&vCenter=true&width=200&lines=CLOUD" alt="CLOUD" />
 
 ```text
 ┌────────────────────────┐
@@ -61,7 +61,7 @@
 </td>
 <td width="33%" align="center" valign="top">
 
-### SECURITY
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1&color=D552A3&center=true&vCenter=true&width=200&lines=SECURITY" alt="SECURITY" />
 
 ```text
 ┌────────────────────────┐
@@ -79,7 +79,7 @@
 </td>
 <td width="33%" align="center" valign="top">
 
-### CODE
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1&color=FF70BF&center=true&vCenter=true&width=200&lines=CODE" alt="CODE" />
 
 ```text
 ┌────────────────────────┐
@@ -158,7 +158,7 @@
 <tr>
 <td align="center" valign="top" width="50%">
 
-**▰ CLOUD & INFRA ▰**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1&color=831C91&center=true&vCenter=true&width=300&lines=▰+CLOUD+%26+INFRA+▰" alt="CLOUD & INFRA" />
 
 <br/>
 
@@ -167,7 +167,7 @@
 </td>
 <td align="center" valign="top" width="50%">
 
-**▰ LANGUAGES ▰**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1&color=D552A3&center=true&vCenter=true&width=300&lines=▰+LANGUAGES+▰" alt="LANGUAGES" />
 
 <br/>
 
@@ -180,7 +180,7 @@
 
 <br/>
 
-**▰ SECURITY ▰**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1&color=FF70BF&center=true&vCenter=true&width=300&lines=▰+SECURITY+▰" alt="SECURITY" />
 
 <br/>
 
@@ -191,7 +191,7 @@
 
 <br/>
 
-**▰ DEVOPS & TOOLS ▰**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1&color=831C91&center=true&vCenter=true&width=300&lines=▰+DEVOPS+%26+TOOLS+▰" alt="DEVOPS & TOOLS" />
 
 <br/>
 
@@ -239,24 +239,20 @@
 
 <br/>
 
-### ▰ FIND ME IN THE WILD ▰
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1&color=FF70BF&center=true&vCenter=true&width=400&lines=▰+FIND+ME+IN+THE+WILD+▰" alt="FIND ME IN THE WILD" />
 
 <br/>
 
 <a href="https://linkedin.com/in/maazsec"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF70BF" /></a><a href="https://medium.com/@maazzaam87"><img src="https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=D552A3" /></a><a href="mailto:maazzaam87@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=831C91" /></a>
 
-<br/><br/>
+<br/><br/><br/>
 
-<table align="center" width="100%" border="0"><tr><td align="center">
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                                 "NO ONE MAN SHOULD HAVE ALL THAT CODE"
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                                           M A A Z   ·   M M X X V
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</td></tr></table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=831C91&height=2&section=header" width="100%"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1&color=FF70BF&center=true&vCenter=true&width=700&lines=%22NO+ONE+MAN+SHOULD+HAVE+ALL+THAT+CODE%22" alt="NO ONE MAN SHOULD HAVE ALL THAT CODE" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=1&color=D552A3&center=true&vCenter=true&width=700&lines=M+A+A+Z+++·+++M+M+X+X+V" alt="M A A Z" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=831C91&height=2&section=header" width="100%"/>
 
 </div>

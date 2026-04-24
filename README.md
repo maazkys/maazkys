@@ -22,20 +22,32 @@ I am a creator based in Islamabad focused on the intersection of full-stack deve
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td align="center" valign="top" width="33%">
+<td align="center" valign="top" width="33%" style="padding: 0 10px;">
 <a href="https://github.com/maazkys/MalTwin"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1&color=FFD41D&center=true&vCenter=true&width=300&repeat=false&lines=MalTwin" alt="MalTwin" /></a>
 <br/>
-<span style="color: #FFFFFF;">Python · TensorFlow · Docker · Linux</span>
+<span style="font-size: 14px;">An IIoT malware detection system using deep learning and Digital Twins.</span>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=FFD41D" />
+<img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=flat-square&logo=tensorflow&logoColor=FFA240" />
+<img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=D73535" />
 </td>
-<td align="center" valign="top" width="33%">
+<td align="center" valign="top" width="33%" style="padding: 0 10px;">
 <a href="https://github.com/maazkys/FrameState"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1&color=FFA240&center=true&vCenter=true&width=300&repeat=false&lines=FrameState" alt="FrameState" /></a>
 <br/>
-<span style="color: #FFFFFF;">Next.js · React · Supabase · MySQL</span>
+<span style="font-size: 14px;">A role-based real estate image editing workflow platform with custom dashboards.</span>
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=FFD41D" />
+<img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=FFA240" />
+<img src="https://img.shields.io/badge/Supabase-0A0A0A?style=flat-square&logo=supabase&logoColor=D73535" />
 </td>
-<td align="center" valign="top" width="33%">
+<td align="center" valign="top" width="33%" style="padding: 0 10px;">
 <a href="https://github.com/maazkys/Personal-Projects"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1&color=D73535&center=true&vCenter=true&width=300&repeat=false&lines=Personal-Projects" alt="Personal-Projects" /></a>
 <br/>
-<span style="color: #FFFFFF;">Java · C · JavaScript · HTML</span>
+<span style="font-size: 14px;">A collection of personal experiments, games, and modding architectures.</span>
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=FFD41D" />
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=FFA240" />
+<img src="https://img.shields.io/badge/C++-0A0A0A?style=flat-square&logo=cplusplus&logoColor=D73535" />
 </td>
 </tr>
 </table>

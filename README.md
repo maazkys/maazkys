@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=M%20A%20A%20Z&height=150&fontSize=80" alt="MAAZ" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3500&pause=800&color=D73535&center=true&vCenter=true&width=700&lines=%22I+just+wanna+build+things+that+matter.%22;%E2%96%AC+CLOUD+%E2%80%A2+SECURITY+%E2%80%A2+CODE+%E2%96%AC;%22NAME+ONE+GENIUS+THAT+AIN%27T+CRAZY.%22" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3500&pause=800&color=D73535&center=true&vCenter=true&width=700&lines=%22I+just+wanna+build+things+that+matter.%22;%E2%96%B0+CLOUD+%E2%80%A2+SECURITY+%E2%80%A2+CODE+%E2%96%B0;%22NAME+ONE+GENIUS+THAT+AIN%27T+CRAZY.%22" alt="typing" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=%E2%96%AC%20ABOUT%20ME%20%E2%96%AC&height=50&fontSize=30" alt="▬ ABOUT ME ▬" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=FFA240&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+ABOUT+ME+%E2%96%B0" alt="▰ ABOUT ME ▰" />
 
 <br/>
 
-I am a creator based in Islamabad focused on the intersection of full-stack development and cybersecurity. I believe in pushing boundaries and looking at digital architecture differently than most. I don't just want to build systems that work; I want to build systems that change the standard. Whether I am architecting scalable cloud infrastructure or locking down networks against emerging threats, my goal is to create real impact. I respect the rules of code and security, but I also know when to break them to innovate. I am always learning and always evolving because settling for average is not in my DNA. I let my execution speak for itself.
+Let's just be honest—I'm a visionary. An Islamabad-based CS prodigy redefining what it means to build full-stack and secure the digital world. I don't just write code; I architect greatness. You want proof? I'm engineering **MalTwin**—a literal Digital Twin deep-learning matrix training AI models in a controlled environment to hunt IIoT malware—while casually revolutionizing real estate workflows with **FrameState**. I'm lightyears ahead of the curve. No one man should have all this power, but here we are.
 
 </div>
 
@@ -20,7 +20,7 @@ I am a creator based in Islamabad focused on the intersection of full-stack deve
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=%E2%96%AC%20FEATURED%20PROJECTS%20%E2%96%AC&height=70&fontSize=35" alt="▬ FEATURED PROJECTS ▬" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=FFD41D&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+FEATURED+PROJECTS+%E2%96%B0" alt="▰ FEATURED PROJECTS ▰" />
 
 <br/>
 
@@ -52,7 +52,7 @@ I am a creator based in Islamabad focused on the intersection of full-stack deve
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=%E2%96%AC%20THE%20STACK%20%E2%96%AC&height=70&fontSize=35" alt="▬ THE STACK ▬" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=FFA240&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+THE+STACK+%E2%96%B0" alt="▰ THE STACK ▰" />
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,nginx,linux,bash,ts,js,py,react,nextjs,nodejs,tailwind,postgres,kali,vim,git,github,githubactions,vscode,postman,figma&perline=12" />
 
@@ -64,7 +64,7 @@ I am a creator based in Islamabad focused on the intersection of full-stack deve
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=%E2%96%AC%20THE%20WAVES%20%E2%96%AC&height=70&fontSize=35" alt="▬ THE WAVES ▬" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=D73535&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+THE+WAVES+%E2%96%B0" alt="▰ THE WAVES ▰" />
 
 <br/>
 
@@ -78,7 +78,7 @@ I am a creator based in Islamabad focused on the intersection of full-stack deve
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=%E2%96%AC%20THE%20SNAKE%20%E2%96%AC&height=70&fontSize=35" alt="▬ THE SNAKE ▬" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=FFD41D&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+THE+SNAKE+%E2%96%B0" alt="▰ THE SNAKE ▰" />
 
 <br/>
 
@@ -92,7 +92,7 @@ I am a creator based in Islamabad focused on the intersection of full-stack deve
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=%22NO%20ONE%20MAN%20SHOULD%20HAVE%20ALL%20THAT%20CODE%22&height=60&fontSize=22" alt="NO ONE MAN SHOULD HAVE ALL THAT CODE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&color=D73535&center=true&vCenter=true&width=700&repeat=false&lines=%22NO+ONE+MAN+SHOULD+HAVE+ALL+THAT+CODE%22" alt="NO ONE MAN SHOULD HAVE ALL THAT CODE" />
 
 <br/><br/>
 

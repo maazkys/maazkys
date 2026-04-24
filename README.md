@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      HERO / NAME BLOCK                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ```
 ███╗   ███╗  █████╗   █████╗  ███████╗
 ████╗ ████║ ██╔══██╗ ██╔══██╗ ╚══███╔╝
@@ -13,17 +9,13 @@
 ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3500&pause=800&color=FF4D4D&center=true&vCenter=true&width=700&lines=%22I+just+wanna+build+things+that+matter.%22;%E2%96%B0+CLOUD+%E2%80%A2+SECURITY+%E2%80%A2+CODE+%E2%96%B0;%22NAME+ONE+GENIUS+THAT+AIN%27T+CRAZY.%22" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3500&pause=800&color=FF70BF&center=true&vCenter=true&width=700&lines=%22I+just+wanna+build+things+that+matter.%22;%E2%96%B0+CLOUD+%E2%80%A2+SECURITY+%E2%80%A2+CODE+%E2%96%B0;%22NAME+ONE+GENIUS+THAT+AIN%27T+CRAZY.%22" alt="typing" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D4D&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       01 — WHAT I DO                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=831C91&height=2&section=header" width="100%"/>
 
 <div align="center">
 
@@ -58,13 +50,13 @@
 │                        │
 │   AWS  ·  AZURE        │
 │   TERRAFORM            │
-│   KUBERNETES            │
+│   KUBERNETES           │
 │   CI  /  CD            │
 │                        │
 └────────────────────────┘
 ```
 
-*Building infrastructure that scales like a Yeezus tour.*
+*Building resilient and highly scalable cloud infrastructure.*
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -82,7 +74,7 @@
 └────────────────────────┘
 ```
 
-*No backdoors. No leaks. Only flame.*
+*Implementing robust security practices and proactive threat mitigation.*
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -100,7 +92,7 @@
 └────────────────────────┘
 ```
 
-*Shipping software that runs cleaner than Graduation.*
+*Writing clean, efficient, and maintainable software architecture.*
 
 </td>
 </tr>
@@ -108,11 +100,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        02 — THE STATS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D552A3&height=2&section=header" width="100%"/>
 
 <div align="center">
 
@@ -137,27 +125,23 @@
 <br/>
 
 <a href="https://github.com/maazkys">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=FF4D4D&text_color=FFFFFF&icon_color=FFD700&ring_color=FF4D4D&hide=contribs&custom_title=%E2%96%B0%20LIFETIME%20NUMBERS%20%E2%96%B0" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=maazkys&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=FF70BF&text_color=FFFFFF&icon_color=D552A3&ring_color=831C91&hide=contribs&custom_title=%E2%96%B0%20LIFETIME%20NUMBERS%20%E2%96%B0" />
 </a>
 <a href="https://github.com/maazkys">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFD700&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D552A3&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" />
 </a>
 
 <br/><br/>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=0A0A0A&stroke=FF4D4D&ring=FFD700&fire=FF4D4D&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="175" />
+  <img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=0A0A0A&stroke=831C91&ring=D552A3&fire=FF70BF&currStreakLabel=D552A3&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="175" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D4D&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        03 — THE STACK                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF70BF&height=2&section=header" width="100%"/>
 
 <div align="center">
 
@@ -226,11 +210,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    04 — CONTRIBUTIONS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=831C91&height=2&section=header" width="100%"/>
 
 <div align="center">
 
@@ -248,23 +228,17 @@
 
 <br/>
 
-<!-- Snake eating contributions — generated from your own repo's action -->
 <img src="https://raw.githubusercontent.com/maazkys/maazkys/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
 <br/><br/>
 
-<!-- Activity graph based on your real GitHub activity -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazkys&bg_color=0A0A0A&color=FF4D4D&line=FFD700&point=FFFFFF&area=true&hide_border=true&custom_title=%E2%96%B0%20THE%20WAVES%20%E2%96%B0" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazkys&bg_color=0A0A0A&color=D552A3&line=FF70BF&point=FFFFFF&area=true&hide_border=true&custom_title=%E2%96%B0%20THE%20WAVES%20%E2%96%B0" width="100%" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D4D&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          CONNECT                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D552A3&height=2&section=header" width="100%"/>
 
 <div align="center">
 
@@ -275,20 +249,16 @@
 <br/>
 
 <a href="https://linkedin.com/in/maazsec">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF70BF" />
 </a>
 <a href="https://medium.com/@maazzaam87">
-  <img src="https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=D552A3" />
 </a>
 <a href="mailto:maazzaam87@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=831C91" />
 </a>
 
 <br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          FOOTER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table align="center" border="0"><tr><td align="center">
 

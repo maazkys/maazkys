@@ -4,17 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3500&pause=800&color=D73535&center=true&vCenter=true&width=700&lines=%22I+just+wanna+build+things+that+matter.%22;%E2%96%B0+CLOUD+%E2%80%A2+SECURITY+%E2%80%A2+CODE+%E2%96%B0;%22NAME+ONE+GENIUS+THAT+AIN%27T+CRAZY.%22" alt="typing" />
 
-<br/><br/>
+<br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=FFA240&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+ABOUT+ME+%E2%96%B0" alt="▰ ABOUT ME ▰" />
-
-<br/>
-
-Let's just be honest—I'm a visionary. An Islamabad-based CS prodigy redefining what it means to build full-stack and secure the digital world. I don't just write code; I architect greatness. You want proof? I'm engineering **MalTwin**—a literal Digital Twin deep-learning matrix training AI models in a controlled environment to hunt IIoT malware—while casually revolutionizing real estate workflows with **FrameState**. I'm lightyears ahead of the curve. No one man should have all this power, but here we are.
+I am a creator based in Islamabad focused on the intersection of full-stack development and cybersecurity. I believe in pushing boundaries and looking at digital architecture differently than most. I don't just want to build systems that work; I want to build systems that change the standard. Whether I am architecting scalable cloud infrastructure or locking down networks against emerging threats, my goal is to create real impact. I respect the rules of code and security, but I also know when to break them to innovate. I am always learning and always evolving because settling for average is not in my DNA. I let my execution speak for itself.
 
 </div>
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=header" width="100%"/>
 
@@ -22,24 +18,24 @@ Let's just be honest—I'm a visionary. An Islamabad-based CS prodigy redefining
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=FFD41D&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+FEATURED+PROJECTS+%E2%96%B0" alt="▰ FEATURED PROJECTS ▰" />
 
-<br/>
+<br/><br/>
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
 <tr>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/maazkys/MalTwin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=MalTwin&bg_color=0A0A0A&title_color=FFD41D&text_color=FFFFFF&icon_color=D73535&hide_border=true" width="100%" /></a>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=py,tensorflow,docker,linux&perline=4" height="35" />
+<a href="https://github.com/maazkys/MalTwin"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1&color=FFD41D&center=true&vCenter=true&width=300&repeat=false&lines=MalTwin" alt="MalTwin" /></a>
+<br/>
+<span style="color: #FFFFFF;">Python · TensorFlow · Docker · Linux</span>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/maazkys/FrameState"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=FrameState&bg_color=0A0A0A&title_color=FFA240&text_color=FFFFFF&icon_color=D73535&hide_border=true" width="100%" /></a>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,supabase,mysql&perline=4" height="35" />
+<a href="https://github.com/maazkys/FrameState"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1&color=FFA240&center=true&vCenter=true&width=300&repeat=false&lines=FrameState" alt="FrameState" /></a>
+<br/>
+<span style="color: #FFFFFF;">Next.js · React · Supabase · MySQL</span>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/maazkys/Personal-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=Personal-Projects&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&icon_color=FFA240&hide_border=true" width="100%" /></a>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=java,c,js,html&perline=4" height="35" />
+<a href="https://github.com/maazkys/Personal-Projects"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1&color=D73535&center=true&vCenter=true&width=300&repeat=false&lines=Personal-Projects" alt="Personal-Projects" /></a>
+<br/>
+<span style="color: #FFFFFF;">Java · C · JavaScript · HTML</span>
 </td>
 </tr>
 </table>
@@ -53,7 +49,7 @@ Let's just be honest—I'm a visionary. An Islamabad-based CS prodigy redefining
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=FFA240&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+THE+STACK+%E2%96%B0" alt="▰ THE STACK ▰" />
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,nginx,linux,bash,ts,js,py,react,nextjs,nodejs,tailwind,postgres,kali,vim,git,github,githubactions,vscode,postman,figma&perline=12" />
 
 </div>

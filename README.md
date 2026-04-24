@@ -4,13 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3500&pause=800&color=D73535&center=true&vCenter=true&width=700&lines=%22I+just+wanna+build+things+that+matter.%22;%E2%96%B0+CLOUD+%E2%80%A2+SECURITY+%E2%80%A2+CODE+%E2%96%B0;%22NAME+ONE+GENIUS+THAT+AIN%27T+CRAZY.%22" alt="typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=500" alt="" />
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=ABOUT%20ME&height=70&fontSize=35" alt="ABOUT ME" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=ABOUT%20ME&height=50&fontSize=30" alt="ABOUT ME" />
 
 <br/>
 
@@ -20,59 +16,59 @@ Currently, I'm developing **MalTwin**, an IIoT malware detection system leveragi
 
 </div>
 
-<br/><br/><br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=header" width="100%"/>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=FEATURED%20PROJECTS&height=70&fontSize=35" alt="FEATURED PROJECTS" />
 
+<br/>
+
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td align="center">
+<td align="center" valign="top">
 <a href="https://github.com/maazkys/MalTwin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=MalTwin&bg_color=0A0A0A&title_color=FFD41D&text_color=FFFFFF&icon_color=D73535&hide_border=true" /></a>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,docker,linux&perline=4" height="35" />
 </td>
-<td align="center">
+<td align="center" valign="top">
 <a href="https://github.com/maazkys/FrameState"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=FrameState&bg_color=0A0A0A&title_color=FFA240&text_color=FFFFFF&icon_color=D73535&hide_border=true" /></a>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,supabase,mysql&perline=4" height="35" />
 </td>
-<td align="center">
-<a href="https://github.com/maazkys/maazkys"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=maazkys&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&icon_color=FFA240&hide_border=true" /></a>
+<td align="center" valign="top">
+<a href="https://github.com/maazkys/Personal-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=Personal-Projects&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&icon_color=FFA240&hide_border=true" /></a>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,c,js,html&perline=4" height="35" />
 </td>
 </tr>
 </table>
 
 </div>
 
-<br/><br/><br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=header" width="100%"/>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=THE%20STACK&height=70&fontSize=35" alt="THE STACK" />
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,nginx,linux,bash,ts,js,py,react,nextjs,nodejs,tailwind,postgres,kali,vim,git,github,githubactions,vscode,postman,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,nginx,linux,bash,ts,js,py,react,nextjs,nodejs,tailwind,postgres,kali,vim,git,github,githubactions,vscode,postman,figma&perline=12" />
 
 </div>
 
-<br/><br/><br/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=header" width="100%"/>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=GITHUB%20STATS&height=70&fontSize=35" alt="GITHUB STATS" />
 
-<table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width: 495px;">
-<tr>
-<td colspan="2" align="center" style="padding: 0;">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=0A0A0A&stroke=FFD41D&ring=D73535&fire=FFA240&currStreakLabel=D73535&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" style="display: block; width: 100%;" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" style="padding: 0;">
-<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" style="display: block; width: 100%;" /></a>
-</td>
-<td align="center" width="50%" style="padding: 0; background-color: #0A0A0A;">
-<img src="https://raw.githubusercontent.com/maazkys/maazkys/output/dist/github-contribution-grid-snake-dark.svg" alt="contribution snake" style="display: block; width: 100%; object-fit: contain; padding: 10px;" />
-</td>
-</tr>
-</table>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maazkys&hide_border=true&background=0A0A0A&stroke=FFD41D&ring=D73535&fire=FFA240&currStreakLabel=D73535&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" /></a>
 
 <br/><br/>
 
@@ -80,7 +76,30 @@ Currently, I'm developing **MalTwin**, an IIoT malware detection system leveragi
 
 </div>
 
-<br/><br/><br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=header" width="100%"/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CONTRIBUTIONS&height=70&fontSize=35" alt="CONTRIBUTIONS" />
+
+<table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; width: 100%;">
+<tr>
+<td align="center" width="50%" valign="middle" style="padding: 10px;">
+<a href="https://github.com/maazkys"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkys&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&langs_count=8&custom_title=%E2%96%B0%20THE%20LANGUAGE%20OF%20CHOICE%20%E2%96%B0" height="175" style="display: block;" /></a>
+</td>
+<td align="center" width="50%" valign="middle" style="padding: 10px; background-color: #0A0A0A; border-radius: 10px;">
+<img src="https://raw.githubusercontent.com/maazkys/maazkys/output/dist/github-contribution-grid-snake-dark.svg" alt="contribution snake" style="display: block; width: 100%; object-fit: contain;" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=header" width="100%"/>
 
 <div align="center">
 

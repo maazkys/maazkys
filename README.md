@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=ABOUT%20ME&height=50&fontSize=30" alt="ABOUT ME" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=%E2%96%B0%20ABOUT%20ME%20%E2%96%B0&height=50&fontSize=30" alt="▰ ABOUT ME ▰" />
 
 <br/>
 
@@ -20,35 +20,39 @@ Let's just be honest—I'm a visionary. An Islamabad-based CS prodigy redefining
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=FEATURED%20PROJECTS&height=70&fontSize=35" alt="FEATURED PROJECTS" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=%E2%96%B0%20FEATURED%20PROJECTS%20%E2%96%B0&height=70&fontSize=35" alt="▰ FEATURED PROJECTS ▰" />
 
 <br/>
 
-<a href="https://github.com/maazkys/MalTwin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=MalTwin&bg_color=0A0A0A&title_color=FFD41D&text_color=FFFFFF&icon_color=D73535&hide_border=true" /></a>
-<br/>
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/maazkys/MalTwin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=MalTwin&bg_color=0A0A0A&title_color=FFD41D&text_color=FFFFFF&icon_color=D73535&hide_border=true" width="100%" /></a>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=py,tensorflow,docker,linux&perline=4" height="35" />
-
-<br/><br/><br/>
-
-<a href="https://github.com/maazkys/FrameState"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=FrameState&bg_color=0A0A0A&title_color=FFA240&text_color=FFFFFF&icon_color=D73535&hide_border=true" /></a>
-<br/>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/maazkys/FrameState"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=FrameState&bg_color=0A0A0A&title_color=FFA240&text_color=FFFFFF&icon_color=D73535&hide_border=true" width="100%" /></a>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,supabase,mysql&perline=4" height="35" />
-
-<br/><br/><br/>
-
-<a href="https://github.com/maazkys/Personal-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=Personal-Projects&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&icon_color=FFA240&hide_border=true" /></a>
-<br/>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/maazkys/Personal-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=maazkys&repo=Personal-Projects&bg_color=0A0A0A&title_color=D73535&text_color=FFFFFF&icon_color=FFA240&hide_border=true" width="100%" /></a>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=java,c,js,html&perline=4" height="35" />
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=header" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=THE%20STACK&height=70&fontSize=35" alt="THE STACK" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFA240&text=%E2%96%B0%20THE%20STACK%20%E2%96%B0&height=70&fontSize=35" alt="▰ THE STACK ▰" />
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,nginx,linux,bash,ts,js,py,react,nextjs,nodejs,tailwind,postgres,kali,vim,git,github,githubactions,vscode,postman,figma&perline=12" />
 
@@ -60,11 +64,11 @@ Let's just be honest—I'm a visionary. An Islamabad-based CS prodigy redefining
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=GITHUB%20STATS&height=70&fontSize=35" alt="GITHUB STATS" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D73535&text=%E2%96%B0%20THE%20WAVES%20%E2%96%B0&height=70&fontSize=35" alt="▰ THE WAVES ▰" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazkys&bg_color=0A0A0A&color=D73535&line=FFA240&point=FFFFFF&area=true&hide_border=true&custom_title=%E2%96%B0%20THE%20WAVES%20%E2%96%B0" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazkys&bg_color=0A0A0A&color=D73535&line=FFA240&point=FFFFFF&area=true&hide_border=true&hide_title=true" width="100%" />
 
 </div>
 
@@ -74,7 +78,7 @@ Let's just be honest—I'm a visionary. An Islamabad-based CS prodigy redefining
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=CONTRIBUTIONS&height=70&fontSize=35" alt="CONTRIBUTIONS" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=%E2%96%B0%20THE%20SNAKE%20%E2%96%B0&height=70&fontSize=35" alt="▰ THE SNAKE ▰" />
 
 <br/>
 

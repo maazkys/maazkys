@@ -1,13 +1,8 @@
 name: Generate pacman animation
-
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-
 jobs:
   generate:
     permissions:
@@ -21,7 +16,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # reads ALL contributions including private repos
           count_contributions_by: all
-
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

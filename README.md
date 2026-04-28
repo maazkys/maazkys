@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFD41D&text=M%20A%20A%20Z&height=150&fontSize=80" alt="MAAZ" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=E8E8E8&text=M%20A%20A%20Z&height=150&fontSize=80" alt="MAAZ" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3500&pause=800&color=D73535&center=true&vCenter=true&width=700&lines=%22I+just+wanna+build+things+that+matter.%22;%E2%96%B0+CLOUD+%E2%80%A2+SECURITY+%E2%80%A2+CODE+%E2%96%B0;%22NAME+ONE+GENIUS+THAT+AIN%27T+CRAZY.%22" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=3500&pause=800&color=AAAAAA&center=true&vCenter=true&width=700&lines=%22I+just+wanna+build+things+that+matter.%22;%E2%96%B0+CLOUD+%E2%80%A2+SECURITY+%E2%80%A2+CODE+%E2%96%B0;%22NAME+ONE+GENIUS+THAT+AIN%27T+CRAZY.%22" alt="typing" />
 
 <br/><br/><br/>
 
@@ -16,38 +16,38 @@ I am a creator based in Islamabad focused on the intersection of full-stack deve
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=FFD41D&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+FEATURED+PROJECTS+%E2%96%B0" alt="▰ FEATURED PROJECTS ▰" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=E8E8E8&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+FEATURED+PROJECTS+%E2%96%B0" alt="▰ FEATURED PROJECTS ▰" />
 
 <br/><br/>
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
 <tr>
 <td align="center" valign="top" width="33%" style="padding: 0 10px;">
-<a href="https://github.com/maazkys/MalTwin"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1&color=FFD41D&center=true&vCenter=true&width=300&repeat=false&lines=MalTwin" alt="MalTwin" /></a>
+<a href="https://github.com/maazkys/MalTwin"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1&color=E8E8E8&center=true&vCenter=true&width=300&repeat=false&lines=MalTwin" alt="MalTwin" /></a>
 <br/>
 <span style="font-size: 14px;">An IIoT malware detection system using deep learning and Digital Twins.</span>
 <br/><br/>
-<img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=FFD41D" />
-<img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=flat-square&logo=tensorflow&logoColor=FFA240" />
-<img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=D73535" />
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=E8E8E8" />
+<img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=flat-square&logo=tensorflow&logoColor=AAAAAA" />
+<img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=717171" />
 </td>
 <td align="center" valign="top" width="33%" style="padding: 0 10px;">
-<a href="https://github.com/maazkys/FrameState"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1&color=FFA240&center=true&vCenter=true&width=300&repeat=false&lines=FrameState" alt="FrameState" /></a>
+<a href="https://github.com/maazkys/FrameState"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1&color=AAAAAA&center=true&vCenter=true&width=300&repeat=false&lines=FrameState" alt="FrameState" /></a>
 <br/>
 <span style="font-size: 14px;">A role-based real estate image editing workflow platform with custom dashboards.</span>
 <br/><br/>
-<img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=FFD41D" />
-<img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=FFA240" />
-<img src="https://img.shields.io/badge/Supabase-0A0A0A?style=flat-square&logo=supabase&logoColor=D73535" />
+<img src="https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=E8E8E8" />
+<img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=AAAAAA" />
+<img src="https://img.shields.io/badge/Supabase-0A0A0A?style=flat-square&logo=supabase&logoColor=717171" />
 </td>
 <td align="center" valign="top" width="33%" style="padding: 0 10px;">
-<a href="https://github.com/maazkys/Personal-Projects"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1&color=D73535&center=true&vCenter=true&width=300&repeat=false&lines=Personal-Projects" alt="Personal-Projects" /></a>
+<a href="https://github.com/maazkys/Personal-Projects"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=1&color=717171&center=true&vCenter=true&width=300&repeat=false&lines=Personal-Projects" alt="Personal-Projects" /></a>
 <br/>
 <span style="font-size: 14px;">A collection of personal experiments, games, and modding architectures.</span>
 <br/><br/>
-<img src="https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=FFD41D" />
-<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=FFA240" />
-<img src="https://img.shields.io/badge/C++-0A0A0A?style=flat-square&logo=cplusplus&logoColor=D73535" />
+<img src="https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=E8E8E8" />
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=AAAAAA" />
+<img src="https://img.shields.io/badge/C++-0A0A0A?style=flat-square&logo=cplusplus&logoColor=717171" />
 </td>
 </tr>
 </table>
@@ -60,7 +60,7 @@ I am a creator based in Islamabad focused on the intersection of full-stack deve
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=FFA240&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+THE+STACK+%E2%96%B0" alt="▰ THE STACK ▰" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=AAAAAA&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+THE+STACK+%E2%96%B0" alt="▰ THE STACK ▰" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,nginx,linux,bash,ts,js,py,react,nextjs,nodejs,tailwind,postgres,kali,vim,git,github,githubactions,vscode,postman,figma&perline=12" />
 
@@ -72,11 +72,11 @@ I am a creator based in Islamabad focused on the intersection of full-stack deve
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=D73535&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+THE+WAVES+%E2%96%B0" alt="▰ THE WAVES ▰" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=717171&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+THE+WAVES+%E2%96%B0" alt="▰ THE WAVES ▰" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazkys&bg_color=0A0A0A&color=D73535&line=FFA240&point=FFFFFF&area=true&hide_border=true&hide_title=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazkys&bg_color=0A0A0A&color=AAAAAA&line=717171&point=E8E8E8&area=true&hide_border=true&hide_title=true" width="100%" />
 
 </div>
 
@@ -86,7 +86,7 @@ I am a creator based in Islamabad focused on the intersection of full-stack deve
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=FFD41D&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+THE+SNAKE+%E2%96%B0" alt="▰ THE SNAKE ▰" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=1&color=E8E8E8&center=true&vCenter=true&width=600&repeat=false&lines=%E2%96%B0+THE+SNAKE+%E2%96%B0" alt="▰ THE SNAKE ▰" />
 
 <br/>
 
@@ -100,10 +100,10 @@ I am a creator based in Islamabad focused on the intersection of full-stack deve
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&color=D73535&center=true&vCenter=true&width=700&repeat=false&lines=%22NO+ONE+MAN+SHOULD+HAVE+ALL+THAT+CODE%22" alt="NO ONE MAN SHOULD HAVE ALL THAT CODE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&color=717171&center=true&vCenter=true&width=700&repeat=false&lines=%22NO+ONE+MAN+SHOULD+HAVE+ALL+THAT+CODE%22" alt="NO ONE MAN SHOULD HAVE ALL THAT CODE" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/maazsec"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFD41D" /></a><a href="https://medium.com/@maazzaam87"><img src="https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=FFA240" /></a><a href="mailto:maazzaam87@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D73535" /></a>
+<a href="https://linkedin.com/in/maazsec"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E8E8E8" /></a><a href="https://medium.com/@maazzaam87"><img src="https://img.shields.io/badge/MEDIUM-0A0A0A?style=for-the-badge&logo=medium&logoColor=AAAAAA" /></a><a href="mailto:maazzaam87@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=717171" /></a>
 
 </div>
